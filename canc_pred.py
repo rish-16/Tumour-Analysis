@@ -39,7 +39,7 @@ def cvt_into_dataframe():
 
 #----------------------------------------------------------------------------------------------------------------
 
-# Checks for malignant and benign tumor ratio
+# Checks for malignant and benign tumour ratio
 def check_mb_ratio():
 	cancerdf = cvt_into_dataframe()
 
